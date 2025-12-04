@@ -1,9 +1,6 @@
-# Welcome to My Physics Site
+# Everything Python Notebook
 
-This site contains explanation, code examples, and interactive notebooks.
+This is a collection of notes of many subjects that includes physics (mostly), probabilities, numbers, etc. Python is used to demonstrate and sometimes also simulates the interesting fact behind the topics. I am a phyisics lecturer, not a programmer. The topics were gathered from scattered old notes.
 
-## Example Code
+These are the topics:
 
-```python
-import numpy as np
-print("Hello Physics!")
