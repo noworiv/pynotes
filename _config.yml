@@ -1,7 +1,7 @@
 # Jupyter Book v1 configuration
 
-title: "Interactive Physics Simulations"
-author: "Your Name"
+title: "Kumpulan Catatan dengan Python"
+author: "Nowo R."
 logo: ""
 
 only_build_toc_files: true
