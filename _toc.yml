@@ -2,6 +2,4 @@ format: jb-book
 root: intro
 
 chapters:
-  - file: contents
-    sections:
-      - file: notebooks/simple_oscillator
+  - file: notebooks/simple_oscillator
