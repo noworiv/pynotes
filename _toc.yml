@@ -2,4 +2,5 @@ format: jb-book
 root: intro
 
 chapters:
+  - file: notebooks/interference
   - file: notebooks/simple_oscillator
