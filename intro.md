@@ -1,4 +1,4 @@
-# Kumpulan Catatan Python
+# Intro
 
 
 Ini adalah kumpulan catatan-catatan dengan beragam topik yang berasal dari bahan kuliah (fisika) maupun hal-hal menarik di bidang matematika dan statistika (probabilitas). Pyhton digunakan untuk melakukan perhitungan, simulasi, juga menampilkan visual sebagai bagian dari penjelasan.
