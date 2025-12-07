@@ -1,0 +1,18 @@
+/* Change sidebar background */
+.bd-sidebar {
+    background-color: #f0f0f0 !important;   /* light grey */
+}
+
+/* Sidebar sub-sections */
+.bd-sidebar .nav {
+    background-color: #f0f0f0 !important;
+}
+
+/* Sidebar links: optional improvements */
+.bd-sidebar .nav a {
+    color: #333 !important;
+}
+
+.bd-sidebar .nav a:hover {
+    background-color: #e0e0e0 !important;
+}
