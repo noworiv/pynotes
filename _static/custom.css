@@ -1,11 +1,11 @@
 /* Change sidebar background */
 .bd-sidebar {
-    background-color: #f4f4f4 !important;   /* light grey */
+    background-color: #c0c0c0 !important;   /* light grey */
 }
 
 /* Sidebar sub-sections */
 .bd-sidebar .nav {
-    background-color: #f4f4f4 !important;
+    background-color: #c0c0c0 !important;
 }
 
 /* Sidebar links: optional improvements */
@@ -22,3 +22,37 @@ button.fullscreen-button,
 button#theme-switch {
     display: none !important;
 }
+
+/* ---------------------------------------------------------
+   REMOVE ALL FULLSCREEN BUTTONS
+   --------------------------------------------------------- */
+
+/* Toolbar fullscreen button */
+button.fullscreen-button {
+    display: none !important;
+}
+
+/* Variant used in some Jupyter-Book builds */
+.btn-fullscreen,
+button.btn-fullscreen,
+button.btn.btn-sm.btn-fullscreen-button {
+    display: none !important;
+}
+
+/* Another variant */
+.fullscreen-btn,
+button.fullscreen-btn {
+    display: none !important;
+}
+
+/* Buttons added by some Sphinx extensions */
+.togglebutton.fullscreen,
+button.togglebutton.fullscreen {
+    display: none !important;
+}
+
+/* Any element that tries to trigger fullscreen */
+*[data-toggle="fullscreen"] {
+    display: none !important;
+}
+
