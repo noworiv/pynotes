@@ -1,11 +1,11 @@
 /* Change sidebar background */
 .bd-sidebar {
-    background-color: #f2f2f2 !important;   /* light grey */
+    background-color: #f4f4f4 !important;   /* light grey */
 }
 
 /* Sidebar sub-sections */
 .bd-sidebar .nav {
-    background-color: #f2f2f2 !important;
+    background-color: #f4f4f4 !important;
 }
 
 /* Sidebar links: optional improvements */
